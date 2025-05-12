@@ -6,9 +6,6 @@ A simple and responsive weather app built using **React** and **Vite**. It fetch
 
 👉 [Click here to view the app](https://mayurargade.github.io/Weather-app/)
 
-## 📸 Preview
-
-![Weather App Screenshot](docs/vite.svg) <!-- Optional: Replace with actual screenshot if available -->
 
 ## 🛠️ Tech Stack
 
